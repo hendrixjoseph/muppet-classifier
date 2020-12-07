@@ -1,0 +1,3 @@
+#!/bin/bash
+cp /notebooks/fastbook/clean/good.pkl  .
+cp /notebooks/fastbook/clean/muppet_webpage.ipynb  .
